@@ -1,0 +1,49 @@
+footer{
+    background-color: rgb(238, 140, 205);
+    padding: 50px;
+    margin-top: 550px;
+}
+
+.rodape{
+    height: 100px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1250px;
+}
+
+.rodape2{
+    height: 100px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1550px;
+    margin-top: -110px;
+}
+
+a{
+    color: rgb(116, 2, 91);
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.titulo{
+    color: rgb(116, 2, 91);
+    justify-content: flex-start;
+}
+
+img{
+    width: 35px;
+    height: 35px;
+    margin-left: 40px;
+}
+/* 
+footer{
+    display: flex;
+    align-items: flex-start;
+} */
