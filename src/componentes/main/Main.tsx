@@ -15,8 +15,8 @@ export default function Main(){
     const projetos:ProjetoType[] = [
     {
         id:1,
-        titulo: "TCC - Coleta Seletiva",
-        informacao: "Projeto de conclusão de curso sobre um aplicativo que ajude na desinformação dos municipes e ajude na coleta seletiva." ,
+        titulo: "TCC - Aplicativo de Coleta Seletiva",
+        informacao: "Projeto de conclusão de curso sobre um aplicativo que ajude na desinformação dos munícipes e ajude na coleta seletiva." ,
         imagem: "/tcc.png"
     },
     {
@@ -28,25 +28,25 @@ export default function Main(){
     {
         id:3,
         titulo:"Aplicativo de Reciclagem",
-        informacao:"Rascunho tela de 'Como Reciclar' do aplicativo de reciclagem.",
+        informacao:"Rascunho tela de Aprenda a Reciclar do aplicativo de reciclagem.",
         imagem: "/reciclagem.png"
     },
     {
         id:4,
         titulo:"Slide Química - Fenois e Éteres",
-        informacao:"Apresentação de seminário da matéria de Química sobre os Fenois e Éteres.",
+        informacao:"Apresentação de seminário da matéria de Química sobre os Fenóis e Éteres.",
         imagem: "/quimica_fenois.png"
     },
     {
         id:5,
         titulo:"Boutique Modas",
-        informacao:"Atividade de sala, WireFrame Baixa fidelidade sobre a tela de cadastro.",
+        informacao:"Atividade de sala, criar uma WireFrame de baixa fidelidade de uma tela de cadastro.",
         imagem: "/boutique_modas.png"
     },
     {
         id:6,
         titulo:"Cine Pipoca",
-        informacao:"Protótipo de site de streaming.",
+        informacao:"Protótipo de site de streaming, que contêm filme e séries para assistir online.",
         imagem: "/cine_pipoca.png"
     },
     {
@@ -58,7 +58,7 @@ export default function Main(){
     {
         id:8,
         titulo:"Livraria Online",
-        informacao:"Protótipo de uma livraria online.",
+        informacao:"Desenvolvimento de um protótipo de baixa fidelidade de uma livraria online.",
         imagem: "/livraria.png"
     },
     {
@@ -69,8 +69,8 @@ export default function Main(){
     },
     {
         id:10,
-        titulo:"Agencia de Turismo",
-        informacao:"Prototipo de um site de uma agencia de turismo.",
+        titulo:"Agência de Turismo",
+        informacao:"Protótipo de um site de uma agência de turismo, onde pode ser comprado pacotes de viagens.",
         imagem: "/turismo.png"
     }
     ]
