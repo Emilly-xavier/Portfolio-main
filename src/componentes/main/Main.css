@@ -20,3 +20,14 @@
     padding: 50px;
     background-color: rgb(248, 164, 220);
 }
+
+@media (max-width:1115px){
+    .content_main{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+@media (max-width:600px){
+    .content_main{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
