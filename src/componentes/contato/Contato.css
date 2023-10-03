@@ -22,5 +22,6 @@ button{
     width: 75px;
     height: 25px;
     background-color: #eb7dc6;
-    text-shadow: none;
+    border-style: none;
+    border-radius: 3px;
 }
