@@ -5,7 +5,8 @@ function Contato(){
     return(
         <>
 
-            <form action="contato">
+            <form action="contato" className='contato'>
+                <h1>Formulário de Contato</h1>
                 <div>
                     <label htmlFor="nome">Nome:</label>
                     <input type="texto" id="nome" name="nome_usuario"></input>
