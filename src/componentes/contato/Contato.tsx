@@ -4,7 +4,7 @@ import '../header/Header'
 function Contato(){
     return(
         <>
-
+        <div className='formulario'>
             <form action="contato" className='contato'>
                 <h1>Formulário de Contato</h1>
                 <div>
@@ -23,7 +23,7 @@ function Contato(){
                     <button type="submit">Enviar</button>
                 </div>
             </form>
-
+    </div>
         </>
     )
 }

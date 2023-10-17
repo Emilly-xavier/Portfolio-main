@@ -1,14 +1,19 @@
 
-.contato {
-    height: 450px;
-    width: 400px;
+.formulario{
+    height: 660px;
+    width: auto;
     background-color: #f8aade;
     display: flex;
-    justify-content: space-around;
-    align-content: center;
-    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.contato {
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* flex-wrap: wrap; */
     flex-direction: column;
-
+    /* align-content: center; */
+    align-items: center;
 }
 
 label{
