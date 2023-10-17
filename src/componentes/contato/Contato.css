@@ -1,6 +1,6 @@
 
 .formulario{
-    height: 660px;
+    height: 620px;
     width: auto;
     background-color: #f8aade;
     display: flex;
@@ -9,11 +9,9 @@
 }
 .contato {
     display: flex;
-    /* justify-content: space-evenly; */
-    /* flex-wrap: wrap; */
     flex-direction: column;
-    /* align-content: center; */
     align-items: center;
+    
 }
 
 label{
@@ -28,5 +26,27 @@ button{
     height: 25px;
     background-color: #eb7dc6;
     border-style: none;
-    border-radius: 3px;
+    border-radius: 7px;
+    margin-top: 10px
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    margin: 40px;
+}
+
+input{
+    height: 20px;
+    width: 250px;
+    margin: 8px;
+    border-radius: 7px;
+    border: solid 1px;
+}
+textarea{
+    height: 60px;
+    width: 250px;
+    margin: 8px;
+    border-radius: 7px; 
+    border: solid 1px;
 }
